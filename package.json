@@ -1,0 +1,11 @@
+{
+    "name":"my-cool-webserver",
+    "version":"0.0.1",
+    "description":"A NodeJS webserver that runs inside a docker container",
+    "main": "index.js",
+    "author": "jmuel11@gmail.com",
+    "license": "MIT",
+    "dependencies": {
+        "express":"*"
+    }
+}
